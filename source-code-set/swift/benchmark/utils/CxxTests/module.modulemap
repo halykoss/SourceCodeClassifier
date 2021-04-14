@@ -1,4 +1,0 @@
-module CxxCreateObjects {
-  header "CreateObjects.h"
-  requires cplusplus
-}

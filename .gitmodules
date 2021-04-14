@@ -79,9 +79,6 @@
 [submodule "source-code-set/source-code-set/clang-old"]
 	path = source-code-set/source-code-set/clang-old
 	url = https://github.com/llvm-mirror/clang.git
-[submodule "source-code-set/source-code-set/swift"]
-	path = source-code-set/source-code-set/swift
-	url = https://github.com/apple/swift.git
 [submodule "source-code-set/source-code-set/jdk"]
 	path = source-code-set/source-code-set/jdk
 	url = https://github.com/openjdk/jdk
@@ -100,3 +97,6 @@
 [submodule "source-code-set/symfony"]
 	path = source-code-set/symfony
 	url = https://github.com/symfony/symfony.git
+[submodule "source-code-set/swift"]
+	path = source-code-set/swift
+	url = https://github.com/apple/swift.git

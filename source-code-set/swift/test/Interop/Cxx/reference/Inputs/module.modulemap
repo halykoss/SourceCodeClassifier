@@ -1,4 +1,0 @@
-module Reference {
-  header "reference.h"
-  requires cplusplus
-}

@@ -1,3 +1,0 @@
-extension MyStruct {
-  func extensionMethod() {}
-}
