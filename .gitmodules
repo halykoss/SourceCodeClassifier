@@ -109,3 +109,18 @@
 [submodule "source-code-set/jdk"]
 	path = source-code-set/jdk
 	url = https://github.com/openjdk/jdk
+[submodule "source-code-set/obs"]
+	path = source-code-set/obs
+	url = https://github.com/obsproject/obs-studio.git
+[submodule "source-code-set/mimalloc"]
+	path = source-code-set/mimalloc
+	url = https://github.com/microsoft/mimalloc.git
+[submodule "source-code-set/clang-old"]
+	path = source-code-set/clang-old
+	url = https://github.com/llvm-mirror/clang.git
+[submodule "source-code-set/TheAlgorithm-C"]
+	path = source-code-set/TheAlgorithm-C
+	url = https://github.com/TheAlgorithms/C.git
+[submodule "source-code-set/TheAlgorithm-Cpp"]
+	path = source-code-set/TheAlgorithm-Cpp
+	url = https://github.com/TheAlgorithms/C-Plus-Plus.git
