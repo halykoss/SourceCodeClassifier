@@ -100,3 +100,12 @@
 [submodule "source-code-set/swift"]
 	path = source-code-set/swift
 	url = https://github.com/apple/swift.git
+[submodule "source-code-set/systemd"]
+	path = source-code-set/systemd
+	url = https://github.com/systemd/systemd.git
+[submodule "source-code-set/php-src"]
+	path = source-code-set/php-src
+	url = https://github.com/php/php-src.git
+[submodule "source-code-set/jdk"]
+	path = source-code-set/jdk
+	url = https://github.com/openjdk/jdk
