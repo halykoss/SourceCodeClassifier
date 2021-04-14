@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/myplot.pdf
+/language_pie_chart.pdf

@@ -1,0 +1,102 @@
+[submodule "source-code-set/interactive-broker-python-api"]
+	path = source-code-set/interactive-broker-python-api
+	url = https://github.com/areed1192/interactive-broker-python-api.git
+[submodule "source-code-set/scala"]
+	path = source-code-set/scala
+	url = https://github.com/scala/scala.git
+[submodule "source-code-set/theAlgorithms-Scala"]
+	path = source-code-set/theAlgorithms-Scala
+	url = https://github.com/TheAlgorithms/Scala.git
+[submodule "source-code-set/ScalaJS"]
+	path = source-code-set/ScalaJS
+	url = https://github.com/scala-js/scala-js.git
+[submodule "source-code-set/TheAlgorithms-JS"]
+	path = source-code-set/TheAlgorithms-JS
+	url = https://github.com/TheAlgorithms/Javascript.git
+[submodule "source-code-set/Pubnub"]
+	path = source-code-set/Pubnub
+	url = https://github.com/pubnub/javascript.git
+[submodule "source-code-set/JQuery"]
+	path = source-code-set/JQuery
+	url = https://github.com/jquery/jquery.git
+[submodule "source-code-set/OCaml"]
+	path = source-code-set/OCaml
+	url = https://github.com/ocaml/ocaml
+[submodule "source-code-set/Fuse-OCaml"]
+	path = source-code-set/Fuse-OCaml
+	url = https://github.com/astrada/google-drive-ocamlfuse.git
+[submodule "source-code-set/Owl-Ocaml"]
+	path = source-code-set/Owl-Ocaml
+	url = https://github.com/owlbarn/owl.git
+[submodule "source-code-set/OCaml-JS"]
+	path = source-code-set/OCaml-JS
+	url = https://github.com/ocsigen/js_of_ocaml
+[submodule "source-code-set/TheAlgorithms-Java"]
+	path = source-code-set/TheAlgorithms-Java
+	url = https://github.com/TheAlgorithms/Java.git
+[submodule "source-code-set/pubnub-Java"]
+	path = source-code-set/pubnub-Java
+	url = https://github.com/pubnub/java.git
+[submodule "source-code-set/Spring-boot"]
+	path = source-code-set/Spring-boot
+	url = https://github.com/spring-projects/spring-boot.git
+[submodule "source-code-set/toaruos"]
+	path = source-code-set/toaruos
+	url = https://github.com/klange/toaruos.git
+[submodule "source-code-set/cpython"]
+	path = source-code-set/cpython
+	url = https://github.com/python/cpython.git
+[submodule "source-code-set/mypy"]
+	path = source-code-set/mypy
+	url = https://github.com/python/mypy.git
+[submodule "source-code-set/TheAlgorithms-Python"]
+	path = source-code-set/TheAlgorithms-Python
+	url = https://github.com/TheAlgorithms/Python.git
+[submodule "source-code-set/Superset"]
+	path = source-code-set/Superset
+	url = https://github.com/apache/superset.git
+[submodule "source-code-set/RaspberryPi-Linux"]
+	path = source-code-set/RaspberryPi-Linux
+	url = https://github.com/raspberrypi/linux.git
+[submodule "source-code-set/source-code-set/mimalloc"]
+	path = source-code-set/source-code-set/mimalloc
+	url = https://github.com/microsoft/mimalloc.git
+[submodule "source-code-set/source-code-set/obs"]
+	path = source-code-set/source-code-set/obs
+	url = https://github.com/obsproject/obs-studio.git
+[submodule "source-code-set/source-code-set/php-src"]
+	path = source-code-set/source-code-set/php-src
+	url = https://github.com/php/php-src.git
+[submodule "source-code-set/source-code-set/TheAlgorithm-C"]
+	path = source-code-set/source-code-set/TheAlgorithm-C
+	url = https://github.com/TheAlgorithms/C.git
+[submodule "source-code-set/source-code-set/TheAlgorithm-Cpp"]
+	path = source-code-set/source-code-set/TheAlgorithm-Cpp
+	url = https://github.com/TheAlgorithms/C-Plus-Plus.git
+[submodule "source-code-set/source-code-set/systemd"]
+	path = source-code-set/source-code-set/systemd
+	url = https://github.com/systemd/systemd.git
+[submodule "source-code-set/source-code-set/clang-old"]
+	path = source-code-set/source-code-set/clang-old
+	url = https://github.com/llvm-mirror/clang.git
+[submodule "source-code-set/source-code-set/swift"]
+	path = source-code-set/source-code-set/swift
+	url = https://github.com/apple/swift.git
+[submodule "source-code-set/source-code-set/jdk"]
+	path = source-code-set/source-code-set/jdk
+	url = https://github.com/openjdk/jdk
+[submodule "source-code-set/source-code-set/csharp"]
+	path = source-code-set/source-code-set/csharp
+	url = https://github.com/microsoft/ClangSharp.git
+[submodule "source-code-set/csharp"]
+	path = source-code-set/csharp
+	url = https://github.com/microsoft/ClangSharp.git
+[submodule "source-code-set/rust"]
+	path = source-code-set/rust
+	url = https://github.com/rust-lang/rust.git
+[submodule "source-code-set/typescript"]
+	path = source-code-set/typescript
+	url = https://github.com/microsoft/TypeScript
+[submodule "source-code-set/symfony"]
+	path = source-code-set/symfony
+	url = https://github.com/symfony/symfony.git
