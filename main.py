@@ -98,8 +98,7 @@ def main():
             'name': 'SVC',
             'clf': [SVC()],
             'clf__C': [0.001, 0.1, 1, 10, 100, 10e5],
-            'clf__kernel': ['linear', 'rbf', 'sigmoid'],
-            'clf__gamma': ['scale', 'auto'],
+            'clf__kernel': ['linear', 'rbf'],
             'clf__class_weight': ['balanced'],
             'clf__probability': [True]
         }
