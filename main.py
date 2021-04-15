@@ -79,19 +79,16 @@ def main():
             'name': 'KNeighborsClassifier',
             'clf': [KNeighborsClassifier()],
             'clf__n_neighbors': list(range(1, 5)),
-            'clf__weights': ["uniform", "distance"],
-            'clf__n_jobs': [400]
+            'clf__weights': ["uniform", "distance"]
         },
         {
             'name': 'LogisticRegression',
             'clf': [LogisticRegression()],
-            'clf__max_iter': [400],
-            'clf__n_jobs': [400]
+            'clf__max_iter': [400]
         },
         {
             'name': 'RandomForestClassifier',
             'clf': [RandomForestClassifier()],
-            'clf__n_jobs': [400],
             "clf__n_estimators": [200, 300, 400],
             "clf__criterion": ["gini", "entropy"],
             "clf__min_samples_split": [2, 3],
@@ -140,5 +137,4 @@ def main():
 
     result = sorted(result, key=operator.itemgetter('best score'), reverse=True)
 
-    print(
-        " -> ".join([str(v['name']) + '[' + str(v['best params']) + ']' + ": " + str(v['best score']) for v in result]))
+    print(" -> ".join([str(v['name']) + '[' + str(v['best params']) + ']' + ": " + str(v['best score']) for v in result]))
