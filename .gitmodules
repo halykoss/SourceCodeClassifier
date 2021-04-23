@@ -124,3 +124,759 @@
 [submodule "source-code-set/TheAlgorithm-Cpp"]
 	path = source-code-set/TheAlgorithm-Cpp
 	url = https://github.com/TheAlgorithms/C-Plus-Plus.git
+[submodule "source-code-set/Medley"]
+	path = source-code-set/Medley
+	url = https://github.com/Interlisp/medley.git
+[submodule "source-code-set/nyxt"]
+	path = source-code-set/nyxt
+	url = https://github.com/atlas-engineer/nyxt.git
+[submodule "source-code-set/pgloader"]
+	path = source-code-set/pgloader
+	url = https://github.com/dimitri/pgloader.git
+[submodule "source-code-set/jsk_robot"]
+	path = source-code-set/jsk_robot
+	url = https://github.com/jsk-ros-pkg/jsk_robot.git
+[submodule "source-code-set/qtools-ui"]
+	path = source-code-set/qtools-ui
+	url = https://github.com/Shinmera/qtools-ui.git
+[submodule "source-code-set/qtools"]
+	path = source-code-set/qtools
+	url = https://github.com/Shinmera/qtools.git
+[submodule "source-code-set/coleslaw"]
+	path = source-code-set/coleslaw
+	url = https://github.com/kingcons/coleslaw.git
+[submodule "source-code-set/websocket-driver"]
+	path = source-code-set/websocket-driver
+	url = https://github.com/fukamachi/websocket-driver.git
+[submodule "source-code-set/quickutil"]
+	path = source-code-set/quickutil
+	url = https://github.com/tarballs-are-good/quickutil.git
+[submodule "source-code-set/chirp"]
+	path = source-code-set/chirp
+	url = https://github.com/Shinmera/chirp.git
+[submodule "source-code-set/lack"]
+	path = source-code-set/lack
+	url = https://github.com/fukamachi/lack.git
+[submodule "source-code-set/clack"]
+	path = source-code-set/clack
+	url = https://github.com/fukamachi/clack.git
+[submodule "source-code-set/weblocks-stores"]
+	path = source-code-set/weblocks-stores
+	url = https://github.com/html/weblocks-stores.git
+[submodule "source-code-set/cl-feedparser"]
+	path = source-code-set/cl-feedparser
+	url = https://github.com/TBRSS/cl-feedparser.git
+[submodule "source-code-set/cl-htm"]
+	path = source-code-set/cl-htm
+	url = https://github.com/sirherrbatka/cl-htm.git
+[submodule "source-code-set/drakma-async"]
+	path = source-code-set/drakma-async
+	url = https://github.com/orthecreedence/drakma-async.git
+[submodule "source-code-set/mgl-mat"]
+	path = source-code-set/mgl-mat
+	url = https://github.com/melisgl/mgl-mat.git
+[submodule "source-code-set/sucle"]
+	path = source-code-set/sucle
+	url = https://github.com/gmasching/sucle.git
+[submodule "source-code-set/wookie"]
+	path = source-code-set/wookie
+	url = https://github.com/orthecreedence/wookie.git
+[submodule "source-code-set/cloture"]
+	path = source-code-set/cloture
+	url = https://github.com/ruricolist/cloture.git
+[submodule "source-code-set/vector-classes"]
+	path = source-code-set/vector-classes
+	url = https://github.com/sirherrbatka/vector-classes.git
+[submodule "source-code-set/staple"]
+	path = source-code-set/staple
+	url = https://github.com/Shinmera/staple.git
+[submodule "source-code-set/fxml"]
+	path = source-code-set/fxml
+	url = https://github.com/TBRSS/fxml.git
+[submodule "source-code-set/weblocks"]
+	path = source-code-set/weblocks
+	url = https://github.com/skypher/weblocks.git
+[submodule "source-code-set/mgl"]
+	path = source-code-set/mgl
+	url = https://github.com/melisgl/mgl.git
+[submodule "source-code-set/http-body"]
+	path = source-code-set/http-body
+	url = https://github.com/fukamachi/http-body.git
+[submodule "source-code-set/Gsharp"]
+	path = source-code-set/Gsharp
+	url = https://github.com/robert-strandh/Gsharp.git
+[submodule "source-code-set/spinneret"]
+	path = source-code-set/spinneret
+	url = https://github.com/ruricolist/spinneret.git
+[submodule "source-code-set/spatial-trees"]
+	path = source-code-set/spatial-trees
+	url = https://github.com/rpav/spatial-trees.git
+[submodule "source-code-set/crane"]
+	path = source-code-set/crane
+	url = https://github.com/eudoxia0/crane.git
+[submodule "source-code-set/snooze"]
+	path = source-code-set/snooze
+	url = https://github.com/joaotavora/snooze.git
+[submodule "source-code-set/mgl-gpr"]
+	path = source-code-set/mgl-gpr
+	url = https://github.com/melisgl/mgl-gpr.git
+[submodule "source-code-set/numcl"]
+	path = source-code-set/numcl
+	url = https://github.com/numcl/numcl.git
+[submodule "source-code-set/cl-random"]
+	path = source-code-set/cl-random
+	url = https://github.com/tpapp/cl-random.git
+[submodule "source-code-set/jonathan"]
+	path = source-code-set/jonathan
+	url = https://github.com/Rudolph-Miller/jonathan.git
+[submodule "source-code-set/cl-dbi"]
+	path = source-code-set/cl-dbi
+	url = https://github.com/fukamachi/cl-dbi.git
+[submodule "source-code-set/oclcl"]
+	path = source-code-set/oclcl
+	url = https://github.com/gos-k/oclcl.git
+[submodule "source-code-set/fast-http"]
+	path = source-code-set/fast-http
+	url = https://github.com/fukamachi/fast-http.git
+[submodule "source-code-set/bknr-web"]
+	path = source-code-set/bknr-web
+	url = https://github.com/hanshuebner/bknr-web.git
+[submodule "source-code-set/cl-pattern"]
+	path = source-code-set/cl-pattern
+	url = https://github.com/arielnetworks/cl-pattern.git
+[submodule "source-code-set/cl-syntax"]
+	path = source-code-set/cl-syntax
+	url = https://github.com/m2ym/cl-syntax.git
+[submodule "source-code-set/quicklisp-controller"]
+	path = source-code-set/quicklisp-controller
+	url = https://github.com/quicklisp/quicklisp-controller.git
+[submodule "source-code-set/cl-data-structures"]
+	path = source-code-set/cl-data-structures
+	url = https://github.com/sirherrbatka/cl-data-structures.git
+[submodule "source-code-set/sxql"]
+	path = source-code-set/sxql
+	url = https://github.com/fukamachi/sxql.git
+[submodule "source-code-set/restas"]
+	path = source-code-set/restas
+	url = https://github.com/archimag/restas.git
+[submodule "source-code-set/serapeum"]
+	path = source-code-set/serapeum
+	url = https://github.com/TBRSS/serapeum.git
+[submodule "source-code-set/hunchensocket"]
+	path = source-code-set/hunchensocket
+	url = https://github.com/capitaomorte/hunchensocket.git
+[submodule "source-code-set/opticl"]
+	path = source-code-set/opticl
+	url = https://github.com/slyrus/opticl.git
+[submodule "source-code-set/sketch"]
+	path = source-code-set/sketch
+	url = https://github.com/vydd/sketch.git
+[submodule "source-code-set/specialized-function"]
+	path = source-code-set/specialized-function
+	url = https://github.com/numcl/specialized-function.git
+[submodule "source-code-set/function-cache"]
+	path = source-code-set/function-cache
+	url = https://github.com/AccelerationNet/function-cache.git
+[submodule "source-code-set/constantfold"]
+	path = source-code-set/constantfold
+	url = https://github.com/numcl/constantfold.git
+[submodule "source-code-set/type-r"]
+	path = source-code-set/type-r
+	url = https://github.com/guicho271828/type-r.git
+[submodule "source-code-set/specializable"]
+	path = source-code-set/specializable
+	url = https://github.com/sbcl/specializable.git
+[submodule "source-code-set/eazy-gnuplot"]
+	path = source-code-set/eazy-gnuplot
+	url = https://github.com/guicho271828/eazy-gnuplot.git
+[submodule "source-code-set/type-i"]
+	path = source-code-set/type-i
+	url = https://github.com/guicho271828/type-i.git
+[submodule "source-code-set/cl-cookie"]
+	path = source-code-set/cl-cookie
+	url = https://github.com/fukamachi/cl-cookie.git
+[submodule "source-code-set/common-doc"]
+	path = source-code-set/common-doc
+	url = https://github.com/CommonDoc/common-doc.git
+[submodule "source-code-set/zacl"]
+	path = source-code-set/zacl
+	url = https://github.com/xach/zacl.git
+[submodule "source-code-set/Petalisp"]
+	path = source-code-set/Petalisp
+	url = https://github.com/marcoheisig/Petalisp.git
+[submodule "source-code-set/qt-libs"]
+	path = source-code-set/qt-libs
+	url = https://github.com/Shinmera/qt-libs.git
+[submodule "source-code-set/buildnode"]
+	path = source-code-set/buildnode
+	url = https://github.com/AccelerationNet/buildnode.git
+[submodule "source-code-set/green-threads"]
+	path = source-code-set/green-threads
+	url = https://github.com/thezerobit/green-threads.git
+[submodule "source-code-set/cl-ana"]
+	path = source-code-set/cl-ana
+	url = https://github.com/ghollisjr/cl-ana.git
+[submodule "source-code-set/trivia"]
+	path = source-code-set/trivia
+	url = https://github.com/guicho271828/trivia.git
+[submodule "source-code-set/hunchentoot"]
+	path = source-code-set/hunchentoot
+	url = https://github.com/edicl/hunchentoot.git
+[submodule "source-code-set/commonqt"]
+	path = source-code-set/commonqt
+	url = https://github.com/commonqt/commonqt.git
+[submodule "source-code-set/rtg-math"]
+	path = source-code-set/rtg-math
+	url = https://github.com/cbaggers/rtg-math.git
+[submodule "source-code-set/cl-plplot"]
+	path = source-code-set/cl-plplot
+	url = https://github.com/HazenBabcock/cl-plplot.git
+[submodule "source-code-set/cl-csv"]
+	path = source-code-set/cl-csv
+	url = https://github.com/AccelerationNet/cl-csv.git
+[submodule "source-code-set/3bil2"]
+	path = source-code-set/3bil2
+	url = https://github.com/3b/3bil2.git
+[submodule "source-code-set/pzmq"]
+	path = source-code-set/pzmq
+	url = https://github.com/orivej/pzmq.git
+[submodule "source-code-set/bknr-datastore"]
+	path = source-code-set/bknr-datastore
+	url = https://github.com/hanshuebner/bknr-datastore.git
+[submodule "source-code-set/curry-compose-reader-macros"]
+	path = source-code-set/curry-compose-reader-macros
+	url = https://github.com/eschulte/curry-compose-reader-macros.git
+[submodule "source-code-set/graph"]
+	path = source-code-set/graph
+	url = https://github.com/eschulte/graph.git
+[submodule "source-code-set/ucons"]
+	path = source-code-set/ucons
+	url = https://github.com/marcoheisig/ucons.git
+[submodule "source-code-set/fn"]
+	path = source-code-set/fn
+	url = https://github.com/cbaggers/fn.git
+[submodule "source-code-set/zs3"]
+	path = source-code-set/zs3
+	url = https://github.com/xach/zs3.git
+[submodule "source-code-set/cl-interpol"]
+	path = source-code-set/cl-interpol
+	url = https://github.com/edicl/cl-interpol.git
+[submodule "source-code-set/cl-neo4j"]
+	path = source-code-set/cl-neo4j
+	url = https://github.com/kraison/cl-neo4j.git
+[submodule "source-code-set/pythonic-string-reader"]
+	path = source-code-set/pythonic-string-reader
+	url = https://github.com/smithzvk/pythonic-string-reader.git
+[submodule "source-code-set/matplotlib-cl"]
+	path = source-code-set/matplotlib-cl
+	url = https://github.com/koji-kojiro/matplotlib-cl.git
+[submodule "source-code-set/micmac"]
+	path = source-code-set/micmac
+	url = https://github.com/melisgl/micmac.git
+[submodule "source-code-set/cl-async-future"]
+	path = source-code-set/cl-async-future
+	url = https://github.com/orthecreedence/cl-async-future.git
+[submodule "source-code-set/toot"]
+	path = source-code-set/toot
+	url = https://github.com/gigamonkey/toot.git
+[submodule "source-code-set/cl-sdl2-ttf"]
+	path = source-code-set/cl-sdl2-ttf
+	url = https://github.com/Failproofshark/cl-sdl2-ttf.git
+[submodule "source-code-set/sdl2kit"]
+	path = source-code-set/sdl2kit
+	url = https://github.com/lispgames/sdl2kit.git
+[submodule "source-code-set/named-readtables"]
+	path = source-code-set/named-readtables
+	url = https://github.com/melisgl/named-readtables.git
+[submodule "source-code-set/glkit"]
+	path = source-code-set/glkit
+	url = https://github.com/lispgames/glkit.git
+[submodule "source-code-set/varjo"]
+	path = source-code-set/varjo
+	url = https://github.com/cbaggers/varjo.git
+[submodule "source-code-set/ahungry-fleece"]
+	path = source-code-set/ahungry-fleece
+	url = https://github.com/ahungry/ahungry-fleece.git
+[submodule "source-code-set/pp-toml"]
+	path = source-code-set/pp-toml
+	url = https://github.com/pnathan/pp-toml.git
+[submodule "source-code-set/hyperluminal-db"]
+	path = source-code-set/hyperluminal-db
+	url = https://github.com/cosmos72/hyperluminal-db.git
+[submodule "source-code-set/drakma"]
+	path = source-code-set/drakma
+	url = https://github.com/edicl/drakma.git
+[submodule "source-code-set/squirl"]
+	path = source-code-set/squirl
+	url = https://github.com/BradWBeer/squirl.git
+[submodule "source-code-set/blackbird"]
+	path = source-code-set/blackbird
+	url = https://github.com/orthecreedence/blackbird.git
+[submodule "source-code-set/fact-base"]
+	path = source-code-set/fact-base
+	url = https://github.com/inaimathi/fact-base.git
+[submodule "source-code-set/cl-sdl2-image"]
+	path = source-code-set/cl-sdl2-image
+	url = https://github.com/lispgames/cl-sdl2-image.git
+[submodule "source-code-set/cl-glfw3"]
+	path = source-code-set/cl-glfw3
+	url = https://github.com/AlexCharlton/cl-glfw3.git
+[submodule "source-code-set/clws"]
+	path = source-code-set/clws
+	url = https://github.com/3b/clws.git
+[submodule "source-code-set/mgl-pax"]
+	path = source-code-set/mgl-pax
+	url = https://github.com/melisgl/mgl-pax.git
+[submodule "source-code-set/smart-buffer"]
+	path = source-code-set/smart-buffer
+	url = https://github.com/fukamachi/smart-buffer.git
+[submodule "source-code-set/time-interval"]
+	path = source-code-set/time-interval
+	url = https://github.com/slyrus/time-interval.git
+[submodule "source-code-set/gpg-utilities"]
+	path = source-code-set/gpg-utilities
+	url = https://github.com/tlikonen/gpg-utilities.git
+[submodule "source-code-set/cl-xdg"]
+	path = source-code-set/cl-xdg
+	url = https://github.com/eadmund/cl-xdg.git
+[submodule "source-code-set/trivial-main-thread"]
+	path = source-code-set/trivial-main-thread
+	url = https://github.com/Shinmera/trivial-main-thread.git
+[submodule "source-code-set/parenscript"]
+	path = source-code-set/parenscript
+	url = https://github.com/vsedach/parenscript.git
+[submodule "source-code-set/cl4l"]
+	path = source-code-set/cl4l
+	url = https://github.com/hbcbh1999/cl4l.git
+[submodule "source-code-set/proc-parse"]
+	path = source-code-set/proc-parse
+	url = https://github.com/fukamachi/proc-parse.git
+[submodule "source-code-set/secure-random"]
+	path = source-code-set/secure-random
+	url = https://github.com/avodonosov/secure-random.git
+[submodule "source-code-set/quri"]
+	path = source-code-set/quri
+	url = https://github.com/fukamachi/quri.git
+[submodule "source-code-set/cl-yaml"]
+	path = source-code-set/cl-yaml
+	url = https://github.com/eudoxia0/cl-yaml.git
+[submodule "source-code-set/bodge-glfw"]
+	path = source-code-set/bodge-glfw
+	url = https://github.com/borodust/bodge-glfw.git
+[submodule "source-code-set/april"]
+	path = source-code-set/april
+	url = https://github.com/phantomics/april.git
+[submodule "source-code-set/cl-sdl2"]
+	path = source-code-set/cl-sdl2
+	url = https://github.com/lispgames/cl-sdl2.git
+[submodule "source-code-set/lla"]
+	path = source-code-set/lla
+	url = https://github.com/tpapp/lla.git
+[submodule "source-code-set/cerberus"]
+	path = source-code-set/cerberus
+	url = https://github.com/fjames86/cerberus.git
+[submodule "source-code-set/cl-async"]
+	path = source-code-set/cl-async
+	url = https://github.com/orthecreedence/cl-async.git
+[submodule "source-code-set/cl-oclapi"]
+	path = source-code-set/cl-oclapi
+	url = https://github.com/gos-k/cl-oclapi.git
+[submodule "source-code-set/cl-cairo2"]
+	path = source-code-set/cl-cairo2
+	url = https://github.com/rpav/cl-cairo2.git
+[submodule "source-code-set/local-time"]
+	path = source-code-set/local-time
+	url = https://github.com/dlowe-net/local-time.git
+[submodule "source-code-set/manardb"]
+	path = source-code-set/manardb
+	url = https://github.com/ilitirit/manardb.git
+[submodule "source-code-set/hyperluminal-mem"]
+	path = source-code-set/hyperluminal-mem
+	url = https://github.com/cosmos72/hyperluminal-mem.git
+[submodule "source-code-set/clyc"]
+	path = source-code-set/clyc
+	url = https://github.com/white-flame/clyc.git
+[submodule "source-code-set/deploy"]
+	path = source-code-set/deploy
+	url = https://github.com/Shinmera/deploy.git
+[submodule "source-code-set/cl-sxml"]
+	path = source-code-set/cl-sxml
+	url = https://github.com/eadmund/cl-sxml.git
+[submodule "source-code-set/xhtmlgen"]
+	path = source-code-set/xhtmlgen
+	url = https://github.com/hanshuebner/xhtmlgen.git
+[submodule "source-code-set/burgled-batteries"]
+	path = source-code-set/burgled-batteries
+	url = https://github.com/pinterface/burgled-batteries.git
+[submodule "source-code-set/cl-random-forest"]
+	path = source-code-set/cl-random-forest
+	url = https://github.com/masatoi/cl-random-forest.git
+[submodule "source-code-set/cl-tls"]
+	path = source-code-set/cl-tls
+	url = https://github.com/shrdlu68/cl-tls.git
+[submodule "source-code-set/cl-eval-bot"]
+	path = source-code-set/cl-eval-bot
+	url = https://github.com/tlikonen/cl-eval-bot.git
+[submodule "source-code-set/zip"]
+	path = source-code-set/zip
+	url = https://github.com/bluelisp/zip.git
+[submodule "source-code-set/dragons"]
+	path = source-code-set/dragons
+	url = https://github.com/fjames86/dragons.git
+[submodule "source-code-set/dufy"]
+	path = source-code-set/dufy
+	url = https://github.com/privet-kitty/dufy.git
+[submodule "source-code-set/fast-websocket"]
+	path = source-code-set/fast-websocket
+	url = https://github.com/fukamachi/fast-websocket.git
+[submodule "source-code-set/cl-coroutine"]
+	path = source-code-set/cl-coroutine
+	url = https://github.com/takagi/cl-coroutine.git
+[submodule "source-code-set/circular-streams"]
+	path = source-code-set/circular-streams
+	url = https://github.com/fukamachi/circular-streams.git
+[submodule "source-code-set/asinine"]
+	path = source-code-set/asinine
+	url = https://github.com/fjames86/asinine.git
+[submodule "source-code-set/cl-freetype2"]
+	path = source-code-set/cl-freetype2
+	url = https://github.com/rpav/cl-freetype2.git
+[submodule "source-code-set/plexippus-xpath"]
+	path = source-code-set/plexippus-xpath
+	url = https://github.com/gonzojive/plexippus-xpath.git
+[submodule "source-code-set/png-read"]
+	path = source-code-set/png-read
+	url = https://github.com/Ramarren/png-read.git
+[submodule "source-code-set/cl-closure-template"]
+	path = source-code-set/cl-closure-template
+	url = https://github.com/archimag/cl-closure-template.git
+[submodule "source-code-set/xsubseq"]
+	path = source-code-set/xsubseq
+	url = https://github.com/fukamachi/xsubseq.git
+[submodule "source-code-set/3b-dex"]
+	path = source-code-set/3b-dex
+	url = https://github.com/3b/3b-dex.git
+[submodule "source-code-set/http-parse"]
+	path = source-code-set/http-parse
+	url = https://github.com/orthecreedence/http-parse.git
+[submodule "source-code-set/drx"]
+	path = source-code-set/drx
+	url = https://github.com/fjames86/drx.git
+[submodule "source-code-set/cl-sqlite"]
+	path = source-code-set/cl-sqlite
+	url = https://github.com/dmitryvk/cl-sqlite.git
+[submodule "source-code-set/cl-cpus"]
+	path = source-code-set/cl-cpus
+	url = https://github.com/muyinliu/cl-cpus.git
+[submodule "source-code-set/do-urlencode"]
+	path = source-code-set/do-urlencode
+	url = https://github.com/drdo/do-urlencode.git
+[submodule "source-code-set/cl-reexport"]
+	path = source-code-set/cl-reexport
+	url = https://github.com/takagi/cl-reexport.git
+[submodule "source-code-set/event-emitter"]
+	path = source-code-set/event-emitter
+	url = https://github.com/fukamachi/event-emitter.git
+[submodule "source-code-set/cl-cache-tables"]
+	path = source-code-set/cl-cache-tables
+	url = https://github.com/diogoalexandrefranco/cl-cache-tables.git
+[submodule "source-code-set/cl-slug"]
+	path = source-code-set/cl-slug
+	url = https://github.com/EuAndreh/cl-slug.git
+[submodule "source-code-set/swap-bytes"]
+	path = source-code-set/swap-bytes
+	url = https://github.com/sionescu/swap-bytes.git
+[submodule "source-code-set/cl-ptrace"]
+	path = source-code-set/cl-ptrace
+	url = https://github.com/k-stz/cl-ptrace.git
+[submodule "source-code-set/cl-libsvm-format"]
+	path = source-code-set/cl-libsvm-format
+	url = https://github.com/masatoi/cl-libsvm-format.git
+[submodule "source-code-set/clip"]
+	path = source-code-set/clip
+	url = https://github.com/Shinmera/clip.git
+[submodule "source-code-set/cl-enchant"]
+	path = source-code-set/cl-enchant
+	url = https://github.com/tlikonen/cl-enchant.git
+[submodule "source-code-set/static-vectors"]
+	path = source-code-set/static-vectors
+	url = https://github.com/sionescu/static-vectors.git
+[submodule "source-code-set/cl-libsvm"]
+	path = source-code-set/cl-libsvm
+	url = https://github.com/melisgl/cl-libsvm.git
+[submodule "source-code-set/external-program"]
+	path = source-code-set/external-program
+	url = https://github.com/sellout/external-program.git
+[submodule "source-code-set/cl-rmath"]
+	path = source-code-set/cl-rmath
+	url = https://github.com/tpapp/cl-rmath.git
+[submodule "source-code-set/cl-annot"]
+	path = source-code-set/cl-annot
+	url = https://github.com/m2ym/cl-annot.git
+[submodule "source-code-set/cl-online-learning"]
+	path = source-code-set/cl-online-learning
+	url = https://github.com/masatoi/cl-online-learning.git
+[submodule "source-code-set/pounds"]
+	path = source-code-set/pounds
+	url = https://github.com/fjames86/pounds.git
+[submodule "source-code-set/cl-readline"]
+	path = source-code-set/cl-readline
+	url = https://github.com/vindarel/cl-readline.git
+[submodule "source-code-set/cl-libyaml"]
+	path = source-code-set/cl-libyaml
+	url = https://github.com/eudoxia0/cl-libyaml.git
+[submodule "source-code-set/cl-rdkafka"]
+	path = source-code-set/cl-rdkafka
+	url = https://github.com/SahilKang/cl-rdkafka.git
+[submodule "source-code-set/trivial-features"]
+	path = source-code-set/trivial-features
+	url = https://github.com/trivial-features/trivial-features.git
+[submodule "source-code-set/cl-libuv"]
+	path = source-code-set/cl-libuv
+	url = https://github.com/orthecreedence/cl-libuv.git
+[submodule "source-code-set/cl-autowrap"]
+	path = source-code-set/cl-autowrap
+	url = https://github.com/rpav/cl-autowrap.git
+[submodule "source-code-set/simple-tasks"]
+	path = source-code-set/simple-tasks
+	url = https://github.com/Shinmera/simple-tasks.git
+[submodule "source-code-set/cl-charms"]
+	path = source-code-set/cl-charms
+	url = https://github.com/HiTECNOLOGYs/cl-charms.git
+[submodule "source-code-set/s-protobuf"]
+	path = source-code-set/s-protobuf
+	url = https://github.com/ndantam/s-protobuf.git
+[submodule "source-code-set/cl-libevent2"]
+	path = source-code-set/cl-libevent2
+	url = https://github.com/orthecreedence/cl-libevent2.git
+[submodule "source-code-set/cl-png"]
+	path = source-code-set/cl-png
+	url = https://github.com/ljosa/cl-png.git
+[submodule "source-code-set/prove"]
+	path = source-code-set/prove
+	url = https://github.com/fukamachi/prove.git
+[submodule "source-code-set/claw"]
+	path = source-code-set/claw
+	url = https://github.com/borodust/claw.git
+[submodule "source-code-set/lquery"]
+	path = source-code-set/lquery
+	url = https://github.com/Shinmera/lquery.git
+[submodule "source-code-set/elf"]
+	path = source-code-set/elf
+	url = https://github.com/eschulte/elf.git
+[submodule "source-code-set/fsocket"]
+	path = source-code-set/fsocket
+	url = https://github.com/fjames86/fsocket.git
+[submodule "source-code-set/vgplot"]
+	path = source-code-set/vgplot
+	url = https://github.com/volkers/vgplot.git
+[submodule "source-code-set/py4cl"]
+	path = source-code-set/py4cl
+	url = https://github.com/digikar99/py4cl.git
+[submodule "source-code-set/basic-binary-ipc"]
+	path = source-code-set/basic-binary-ipc
+	url = https://github.com/markcox80/basic-binary-ipc.git
+[submodule "source-code-set/osicat"]
+	path = source-code-set/osicat
+	url = https://github.com/osicat/osicat.git
+[submodule "source-code-set/trivial-irc"]
+	path = source-code-set/trivial-irc
+	url = https://github.com/karvus/trivial-irc.git
+[submodule "source-code-set/taglib"]
+	path = source-code-set/taglib
+	url = https://github.com/mv2devnul/taglib.git
+[submodule "source-code-set/uuid"]
+	path = source-code-set/uuid
+	url = https://github.com/dardoria/uuid.git
+[submodule "source-code-set/cells-gtk3"]
+	path = source-code-set/cells-gtk3
+	url = https://github.com/Ramarren/cells-gtk3.git
+[submodule "source-code-set/array-operations"]
+	path = source-code-set/array-operations
+	url = https://github.com/tpapp/array-operations.git
+[submodule "source-code-set/archive"]
+	path = source-code-set/archive
+	url = https://github.com/sharplispers/archive.git
+[submodule "source-code-set/cl-conspack"]
+	path = source-code-set/cl-conspack
+	url = https://github.com/conspack/cl-conspack.git
+[submodule "source-code-set/monkeylib-html"]
+	path = source-code-set/monkeylib-html
+	url = https://github.com/gigamonkey/monkeylib-html.git
+[submodule "source-code-set/cl-fad"]
+	path = source-code-set/cl-fad
+	url = https://github.com/edicl/cl-fad.git
+[submodule "source-code-set/cl-num-utils"]
+	path = source-code-set/cl-num-utils
+	url = https://github.com/tpapp/cl-num-utils.git
+[submodule "source-code-set/monkeylib-text-languages"]
+	path = source-code-set/monkeylib-text-languages
+	url = https://github.com/gigamonkey/monkeylib-text-languages.git
+[submodule "source-code-set/trivial-file-size"]
+	path = source-code-set/trivial-file-size
+	url = https://github.com/ruricolist/trivial-file-size.git
+[submodule "source-code-set/monkeylib-text-output"]
+	path = source-code-set/monkeylib-text-output
+	url = https://github.com/gigamonkey/monkeylib-text-output.git
+[submodule "source-code-set/cl-progress-bar"]
+	path = source-code-set/cl-progress-bar
+	url = https://github.com/sirherrbatka/cl-progress-bar.git
+[submodule "source-code-set/retrospectiff"]
+	path = source-code-set/retrospectiff
+	url = https://github.com/slyrus/retrospectiff.git
+[submodule "source-code-set/montezuma"]
+	path = source-code-set/montezuma
+	url = https://github.com/sharplispers/montezuma.git
+[submodule "source-code-set/cl-ftp"]
+	path = source-code-set/cl-ftp
+	url = https://github.com/pinterface/cl-ftp.git
+[submodule "source-code-set/clss"]
+	path = source-code-set/clss
+	url = https://github.com/Shinmera/clss.git
+[submodule "source-code-set/monkeylib-json"]
+	path = source-code-set/monkeylib-json
+	url = https://github.com/gigamonkey/monkeylib-json.git
+[submodule "source-code-set/data-sift"]
+	path = source-code-set/data-sift
+	url = https://github.com/archimag/data-sift.git
+[submodule "source-code-set/cl-routes"]
+	path = source-code-set/cl-routes
+	url = https://github.com/archimag/cl-routes.git
+[submodule "source-code-set/3bmd"]
+	path = source-code-set/3bmd
+	url = https://github.com/3b/3bmd.git
+[submodule "source-code-set/array-utils"]
+	path = source-code-set/array-utils
+	url = https://github.com/Shinmera/array-utils.git
+[submodule "source-code-set/more-conditions"]
+	path = source-code-set/more-conditions
+	url = https://github.com/scymtym/more-conditions.git
+[submodule "source-code-set/glsl-toolkit"]
+	path = source-code-set/glsl-toolkit
+	url = https://github.com/Shirakumo/glsl-toolkit.git
+[submodule "source-code-set/arnesi"]
+	path = source-code-set/arnesi
+	url = https://github.com/AccelerationNet/arnesi.git
+[submodule "source-code-set/pathname-utils"]
+	path = source-code-set/pathname-utils
+	url = https://github.com/Shinmera/pathname-utils.git
+[submodule "source-code-set/plump"]
+	path = source-code-set/plump
+	url = https://github.com/Shinmera/plump.git
+[submodule "source-code-set/trivial-channels"]
+	path = source-code-set/trivial-channels
+	url = https://github.com/rpav/trivial-channels.git
+[submodule "source-code-set/3d-matrices"]
+	path = source-code-set/3d-matrices
+	url = https://github.com/Shinmera/3d-matrices.git
+[submodule "source-code-set/modularize-hooks"]
+	path = source-code-set/modularize-hooks
+	url = https://github.com/Shinmera/modularize-hooks.git
+[submodule "source-code-set/safe-queue"]
+	path = source-code-set/safe-queue
+	url = https://github.com/deadtrickster/safe-queue.git
+[submodule "source-code-set/bt-semaphore"]
+	path = source-code-set/bt-semaphore
+	url = https://github.com/rmoritz/bt-semaphore.git
+[submodule "source-code-set/iolib"]
+	path = source-code-set/iolib
+	url = https://github.com/sionescu/iolib.git
+[submodule "source-code-set/3d-vectors"]
+	path = source-code-set/3d-vectors
+	url = https://github.com/Shinmera/3d-vectors.git
+[submodule "source-code-set/universal-config"]
+	path = source-code-set/universal-config
+	url = https://github.com/Shinmera/universal-config.git
+[submodule "source-code-set/monkeylib-parser"]
+	path = source-code-set/monkeylib-parser
+	url = https://github.com/gigamonkey/monkeylib-parser.git
+[submodule "source-code-set/trivial-lazy"]
+	path = source-code-set/trivial-lazy
+	url = https://github.com/dsorokin/trivial-lazy.git
+[submodule "source-code-set/cl-heredoc"]
+	path = source-code-set/cl-heredoc
+	url = https://github.com/e-user/cl-heredoc.git
+[submodule "source-code-set/arrow-macros"]
+	path = source-code-set/arrow-macros
+	url = https://github.com/hipeta/arrow-macros.git
+[submodule "source-code-set/idna"]
+	path = source-code-set/idna
+	url = https://github.com/antifuchs/idna.git
+[submodule "source-code-set/numpy-file-format"]
+	path = source-code-set/numpy-file-format
+	url = https://github.com/marcoheisig/numpy-file-format.git
+[submodule "source-code-set/generators"]
+	path = source-code-set/generators
+	url = https://github.com/AccelerationNet/generators.git
+[submodule "source-code-set/pack"]
+	path = source-code-set/pack
+	url = https://github.com/soemraws/pack.git
+[submodule "source-code-set/cl-ansi-text"]
+	path = source-code-set/cl-ansi-text
+	url = https://github.com/pnathan/cl-ansi-text.git
+[submodule "source-code-set/cl-slice"]
+	path = source-code-set/cl-slice
+	url = https://github.com/tpapp/cl-slice.git
+[submodule "source-code-set/lisp-namespace"]
+	path = source-code-set/lisp-namespace
+	url = https://github.com/guicho271828/lisp-namespace.git
+[submodule "source-code-set/cl-geometry"]
+	path = source-code-set/cl-geometry
+	url = https://github.com/vydd/cl-geometry.git
+[submodule "source-code-set/modularize-interfaces"]
+	path = source-code-set/modularize-interfaces
+	url = https://github.com/Shinmera/modularize-interfaces.git
+[submodule "source-code-set/introspect-environment"]
+	path = source-code-set/introspect-environment
+	url = https://github.com/Bike/introspect-environment.git
+[submodule "source-code-set/colorize"]
+	path = source-code-set/colorize
+	url = https://github.com/redline6561/colorize.git
+[submodule "source-code-set/monkeylib-utilities"]
+	path = source-code-set/monkeylib-utilities
+	url = https://github.com/gigamonkey/monkeylib-utilities.git
+[submodule "source-code-set/optima"]
+	path = source-code-set/optima
+	url = https://github.com/m2ym/optima.git
+[submodule "source-code-set/lass"]
+	path = source-code-set/lass
+	url = https://github.com/Shinmera/lass.git
+[submodule "source-code-set/ubiquitous"]
+	path = source-code-set/ubiquitous
+	url = https://github.com/Shinmera/ubiquitous.git
+[submodule "source-code-set/clos-fixtures"]
+	path = source-code-set/clos-fixtures
+	url = https://github.com/eudoxia0/clos-fixtures.git
+[submodule "source-code-set/ieee-floats"]
+	path = source-code-set/ieee-floats
+	url = https://github.com/marijnh/ieee-floats.git
+[submodule "source-code-set/cl-prevalence"]
+	path = source-code-set/cl-prevalence
+	url = https://github.com/40ants/cl-prevalence.git
+[submodule "source-code-set/cl-keras-seq2seq-demo"]
+	path = source-code-set/cl-keras-seq2seq-demo
+	url = https://github.com/digikar99/cl-keras-seq2seq-demo.git
+[submodule "source-code-set/parachute"]
+	path = source-code-set/parachute
+	url = https://github.com/Shinmera/parachute.git
+[submodule "source-code-set/protobuf"]
+	path = source-code-set/protobuf
+	url = https://github.com/brown/protobuf.git
+[submodule "source-code-set/generic-comparability"]
+	path = source-code-set/generic-comparability
+	url = https://github.com/pnathan/generic-comparability.git
+[submodule "source-code-set/stmx"]
+	path = source-code-set/stmx
+	url = https://github.com/cosmos72/stmx.git
+[submodule "source-code-set/chanl"]
+	path = source-code-set/chanl
+	url = https://github.com/zkat/chanl.git
+[submodule "source-code-set/3bst"]
+	path = source-code-set/3bst
+	url = https://github.com/3b/3bst.git
+[submodule "source-code-set/split-sequence"]
+	path = source-code-set/split-sequence
+	url = https://github.com/sharplispers/split-sequence.git
+[submodule "source-code-set/collectors"]
+	path = source-code-set/collectors
+	url = https://github.com/AccelerationNet/collectors.git

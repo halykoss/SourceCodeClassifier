@@ -130,3 +130,5 @@ dmypy.json
 /myplot.pdf
 /language_pie_chart.pdf
 /.idea
+repo.csv
+export.sh
