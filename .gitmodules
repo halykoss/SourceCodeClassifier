@@ -880,3 +880,30 @@
 [submodule "source-code-set/collectors"]
 	path = source-code-set/collectors
 	url = https://github.com/AccelerationNet/collectors.git
+[submodule "source-code-set/animatecss"]
+	path = source-code-set/animatecss
+	url = https://github.com/animate-css/animate.css.git
+[submodule "source-code-set/bootstrap"]
+	path = source-code-set/bootstrap
+	url = https://github.com/twbs/bootstrap
+[submodule "source-code-set/50projects"]
+	path = source-code-set/50projects
+	url = https://github.com/bradtraversy/50projects50days.git
+[submodule "source-code-set/inspirejs"]
+	path = source-code-set/inspirejs
+	url = https://github.com/LeaVerou/inspire.js.git
+[submodule "source-code-set/casualcourse"]
+	path = source-code-set/casualcourse
+	url = https://github.com/luxplanjay/html-css-source-code.git
+[submodule "source-code-set/linguist"]
+	path = source-code-set/linguist
+	url = https://github.com/github/linguist
+[submodule "source-code-set/ruby"]
+	path = source-code-set/ruby
+	url = https://github.com/ruby/ruby
+[submodule "source-code-set/rails"]
+	path = source-code-set/rails
+	url = https://github.com/rails/rails
+[submodule "source-code-set/golang"]
+	path = source-code-set/golang
+	url = https://github.com/golang/go.git
