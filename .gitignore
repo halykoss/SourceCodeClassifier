@@ -132,3 +132,8 @@ dmypy.json
 /.idea
 repo.csv
 export.sh
+generate_dataset_csv.sh
+getlang.sh
+listing.csv
+repo.csv
+source-code-set/listing.csv
