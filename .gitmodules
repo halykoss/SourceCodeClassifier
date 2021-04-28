@@ -907,3 +907,36 @@
 [submodule "source-code-set/golang"]
 	path = source-code-set/golang
 	url = https://github.com/golang/go.git
+[submodule "source-code-set/swish-pl"]
+	path = source-code-set/swish-pl
+	url = https://github.com/SWI-Prolog/swish.git
+[submodule "source-code-set/the-power-of-prolog"]
+	path = source-code-set/the-power-of-prolog
+	url = https://github.com/triska/the-power-of-prolog.git
+[submodule "source-code-set/prolog-examples"]
+	path = source-code-set/prolog-examples
+	url = https://github.com/Anniepoo/prolog-examples.git
+[submodule "source-code-set/learn-prolog"]
+	path = source-code-set/learn-prolog
+	url = https://github.com/dragonwasrobot/learn-prolog-now-exercises.git
+[submodule "source-code-set/other-example-prolog"]
+	path = source-code-set/other-example-prolog
+	url = https://github.com/exercism/prolog.git
+[submodule "source-code-set/prolongo"]
+	path = source-code-set/prolongo
+	url = https://github.com/khueue/prolongo.git
+[submodule "source-code-set/prolog-rands"]
+	path = source-code-set/prolog-rands
+	url = https://github.com/xmonader/prolog-rands.git
+[submodule "source-code-set/elpi"]
+	path = source-code-set/elpi
+	url = https://github.com/LPCIC/elpi.git
+[submodule "source-code-set/thea"]
+	path = source-code-set/thea
+	url = https://github.com/vangelisv/thea.git
+[submodule "source-code-set/xsd2json"]
+	path = source-code-set/xsd2json
+	url = https://github.com/fnogatz/xsd2json.git
+[submodule "source-code-set/aop"]
+	path = source-code-set/aop
+	url = https://github.com/npe9/aop.git
