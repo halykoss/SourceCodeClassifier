@@ -130,3 +130,6 @@ dmypy.json
 /myplot.pdf
 /language_pie_chart.pdf
 /.idea
+ANN.pkl
+RandomForest.pkl
+SVC.pkl
