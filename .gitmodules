@@ -940,3 +940,12 @@
 [submodule "source-code-set/aop"]
 	path = source-code-set/aop
 	url = https://github.com/npe9/aop.git
+[submodule "source-code-set/RosettaCodeData"]
+	path = source-code-set/RosettaCodeData
+	url = https://github.com/acmeism/RosettaCodeData
+[submodule "source-code-set/source-code-set/DartSDK"]
+	path = source-code-set/source-code-set/DartSDK
+	url = https://github.com/dart-lang/sdk
+[submodule "source-code-set/DartSDK"]
+	path = source-code-set/DartSDK
+	url = https://github.com/dart-lang/sdk
