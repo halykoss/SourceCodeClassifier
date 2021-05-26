@@ -949,3 +949,15 @@
 [submodule "source-code-set/DartSDK"]
 	path = source-code-set/DartSDK
 	url = https://github.com/dart-lang/sdk
+[submodule "source-code-set/ghc--haskell"]
+	path = source-code-set/ghc--haskell
+	url = https://github.com/ghc/ghc
+[submodule "source-code-set/factorLang"]
+	path = source-code-set/factorLang
+	url = https://github.com/factor/factor
+[submodule "source-code-set/perlLang"]
+	path = source-code-set/perlLang
+	url = https://github.com/rurban/perl-compiler
+[submodule "source-code-set/raku"]
+	path = source-code-set/raku
+	url = https://github.com/rakudo/rakudo
