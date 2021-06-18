@@ -1,6 +1,6 @@
 # SourceCodeClassifier
 
-A Machine Learning model for programming language classification. 97.3% of accuracy.
+A Machine Learning model for programming language classification task. 97.3% of accuracy.
 
 ### Built With
 
